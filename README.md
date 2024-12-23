@@ -1,1 +1,1 @@
-# Inventory_manantorySystem_Prpject
+# Inventory_managmentSystem_Prpject
